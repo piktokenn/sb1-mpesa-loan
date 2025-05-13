@@ -9,3 +9,4 @@
   npm install && npm run dev
 </pre> 
 
+## Your app will be running on  http://localhost:5173/
